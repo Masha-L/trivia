@@ -47,11 +47,11 @@ function App() {
                 zoom link</a></p>
               <p>
               <a 
-                  href="https://studio.youtube.com/channel/UCPgUhE5voft1Ffc5v54bzsA/livestreaming" 
+                  href="https://tinyurl.com/the-ducklings" 
                   target='_blank' 
                   rel="noopener noreferrer" 
                   className="link">
-                youtube</a></p>
+                zoom link</a></p>
               </div>
           </div>
         </div>
@@ -64,6 +64,7 @@ function App() {
             <p>Organized by </p><p> Masha/Nothingmancer (@a_sallieri),</p> <p>Katy Carter (@thelucindac) </p> <p>and High King Elliott (@highkingelliott)</p>
             <br/>
               <p>May 2020</p>
+              <br/>
             </div>
 
       </header>
